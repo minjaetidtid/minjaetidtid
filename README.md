@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Minjae Jeong.
 - 🌱 I'm a Ph.D student at <a href="https://https://mip.postech.ac.kr//">MIP Lab</a>, POSTECH.
-- 🔭 I’m currently focusing my research interests on Generative AI and Medical imaging.
+- 🔭 My current research interests are in Generative AI and Medical imaging.
 - 📫 How to reach me: minjaetidtid@postech.ac.kr
 <!--
 **HyeonjeongHa/hyeonjeongha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
