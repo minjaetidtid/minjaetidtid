@@ -1,7 +1,9 @@
-## Hi there 👋
-
+## 👋 Hi! I'm Minjae Jeong.
+- 🌱 I'm a Ph.D student at <a href="https://https://mip.postech.ac.kr//">MIP Lab</a>, POSTECH.
+- 🔭 I’m currently focusing my research interests on Generative AI and Medical imaging.
+- 📫 How to reach me: minjaetidtid@postech.ac.kr
 <!--
-**minjaetidtid/minjaetidtid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HyeonjeongHa/hyeonjeongha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
 -->
+
